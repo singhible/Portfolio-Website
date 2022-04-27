@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1033d50-6302-4e3a-a377-f8a06ace4c05" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/api/src/components/intro/Intro.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/components/topbar/Topbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Portfolio-Website.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/api/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27G0q61s9dGYoKqDW5RkMi6JPO1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api/src/components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1033d50-6302-4e3a-a377-f8a06ace4c05" name="Changes" comment="" />
+      <created>1648931303519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648931303519</updated>
+      <workItem from="1648931305536" duration="6909000" />
+      <workItem from="1648961474216" duration="107000" />
+      <workItem from="1649100331657" duration="4000" />
+      <workItem from="1651029889536" duration="110000" />
+      <workItem from="1651030358653" duration="2350000" />
+      <workItem from="1651033405352" duration="219000" />
+      <workItem from="1651033628159" duration="59000" />
+      <workItem from="1651033703363" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
